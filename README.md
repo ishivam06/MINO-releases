@@ -15,7 +15,9 @@ Open [Releases](https://github.com/ishivam06/MINO-releases/releases/latest) and 
 
 ## Updates
 
-Version 1.0.2.0 and newer use this public release feed. Earlier builds need one manual upgrade. MINO checks every 15 days while running; manual checking is in Settings → About & updates. Checking does not send notes and can be disabled.
+The initial public release is **v1.0.0** (Windows file version 1.0.0.0). Earlier internal Windows and macOS prereleases were withdrawn before public distribution. This release contains Windows builds only.
+
+MINO checks this public release feed every 15 days while running; manual checking is in Settings → About & updates. Checking does not send notes and can be disabled. Future updates must use a higher version than 1.0.0.
 
 Release `.sig` files are free cryptographic updater signatures. **The EXEs are not Windows Authenticode-signed**; updater signatures do not establish a trusted Windows publisher or SmartScreen reputation. Do not disable Windows security to install.
 
